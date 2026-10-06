@@ -4,6 +4,7 @@
   "description": "A collection of refined, high-legibility dark themes inspired by Sanzo Wada's 1930s 'A Dictionary of Color Combinations' (Haishoku Sōkan).",
   "version": "0.2.0",
   "publisher": "vhpenas",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.60.0"
   },
