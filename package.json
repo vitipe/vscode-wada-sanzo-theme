@@ -1,0 +1,54 @@
+{
+  "name": "wada-sanzo-theme",
+  "displayName": "Wada Sanzō Color Themes",
+  "description": "A collection of refined, high-legibility dark themes inspired by Sanzo Wada's 1930s 'A Dictionary of Color Combinations' (Haishoku Sōkan).",
+  "version": "0.2.0",
+  "publisher": "vhpenas",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "wada sanzo",
+    "japanese",
+    "minimal",
+    "dark",
+    "charcoal",
+    "indigo",
+    "autumn",
+    "botanical",
+    "aesthetic",
+    "color palette"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Wada Sanzō - Clásica (Warm Charcoal)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/wada-sanzo-warm-charcoal.json"
+      },
+      {
+        "label": "Wada Sanzō - Aizome (Índigo & Luna)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/wada-sanzo-aizome.json"
+      },
+      {
+        "label": "Wada Sanzō - Momiji (Otoño & Madera)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/wada-sanzo-momiji.json"
+      },
+      {
+        "label": "Wada Sanzō - Komorebi (Té Verde & Bosque)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/wada-sanzo-komorebi.json"
+      },
+      {
+        "label": "Wada Sanzō - Sumi Slate",
+        "uiTheme": "vs-dark",
+        "path": "./themes/wada-sanzo-slate.json"
+      }
+    ]
+  }
+}
